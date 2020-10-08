@@ -27,7 +27,4 @@ def pop_with_args(array)
   p small_dogs
  end
  
-def pop_with_args(array)
-  dog_breeds = ["Great", "Golden Retriever"]
-end 
       
