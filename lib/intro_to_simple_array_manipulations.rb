@@ -28,6 +28,5 @@ def pop_with_args(array)
  
 def pop_with_args(array)
   dog_breeds = ["Great", "Golden Retriever"]
-  p dog_breeds
 end 
       
