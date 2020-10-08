@@ -1,4 +1,4 @@
-
+require 'pry'
 def using_push(array, string)
   colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
   next_color = "violet"
@@ -22,7 +22,7 @@ def using_pop(arrray)
 def pop_with_args(array)
   dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   dog_breeds.pop(2)
-  
+  binding.pry
  end
  
       
