@@ -30,7 +30,8 @@ def using_shift(array)
     p "Lagos"
   end
   
-
+def shift_with_args(array)
+  
 
 
 
